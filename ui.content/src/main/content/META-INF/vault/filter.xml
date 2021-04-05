@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/pst-aem-poc" mode="merge"/>
+    <filter root="/content/pst-aem-poc" mode="merge"/>
+    <filter root="/content/dam/pst-aem-poc" mode="merge"/>
+    <filter root="/content/experience-fragments/pst-aem-poc" mode="merge"/>
+</workspaceFilter>
