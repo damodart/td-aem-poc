@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workspaceFilter version="1.0">
-    <filter root="/apps/pst-aem-poc/clientlibs"/>
-    <filter root="/apps/pst-aem-poc/components"/>
-    <filter root="/apps/pst-aem-poc/i18n"/>
+    <filter root="/apps/aem-poc/clientlibs"/>
+    <filter root="/apps/aem-poc/components"/>
+    <filter root="/apps/aem-poc/i18n"/>
 </workspaceFilter>

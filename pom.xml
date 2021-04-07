@@ -22,7 +22,7 @@
     <artifactId>aem-poc</artifactId>
     <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
-    <description>PST AEM POC</description>
+    <description>AEM POC</description>
 
     <modules>
         <module>all</module>
@@ -50,7 +50,7 @@
         <bnd.version>5.1.2</bnd.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <componentGroupName>PST AEM POC</componentGroupName>
+        <componentGroupName>AEM POC</componentGroupName>
     </properties>
 
     <build>

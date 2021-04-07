@@ -30,8 +30,8 @@
     </parent>
 
     <artifactId>aem-poc.ui.tests</artifactId>
-    <name>PST AEM POC - UI Tests</name>
-    <description>UI Tests for PST AEM POC</description>
+    <name>AEM POC - UI Tests</name>
+    <description>UI Tests for AEM POC</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

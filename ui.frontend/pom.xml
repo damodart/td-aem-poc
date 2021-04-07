@@ -33,7 +33,7 @@
     <!-- ====================================================================== -->
     <artifactId>aem-poc.ui.frontend</artifactId>
     <packaging>pom</packaging>
-    <name>PST AEM POC - UI Frontend</name>
+    <name>AEM POC - UI Frontend</name>
 
 
     <!-- ====================================================================== -->

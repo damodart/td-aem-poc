@@ -24,8 +24,8 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>aem-poc.core</artifactId>
-    <name>PST AEM POC - Core</name>
-    <description>Core bundle for PST AEM POC</description>
+    <name>AEM POC - Core</name>
+    <description>Core bundle for AEM POC</description>
     <build>
         <plugins>
             <plugin>

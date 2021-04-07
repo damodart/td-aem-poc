@@ -32,8 +32,8 @@
     <!-- ====================================================================== -->
     <artifactId>aem-poc.ui.content</artifactId>
     <packaging>content-package</packaging>
-    <name>PST AEM POC - UI content</name>
-    <description>UI content package for PST AEM POC</description>
+    <name>AEM POC - UI content</name>
+    <description>UI content package for AEM POC</description>
 
     <!-- ====================================================================== -->
     <!-- B U I L D   D E F I N I T I O N                                        -->

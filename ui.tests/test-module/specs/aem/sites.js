@@ -18,7 +18,7 @@ const config = require('../../lib/config');
 const commons = require('../../lib/commons');
 const { expect } = require('chai');
 
-const AEM_SAMPLE_PAGE_PARENT = '/content/pst-aem-poc/us';
+const AEM_SAMPLE_PAGE_PARENT = '/content/aem-poc/us';
 const AEM_SAMPLE_PAGE_ID = 'en';
 
 describe('AEM Sites Console', () => {
